@@ -11,6 +11,7 @@ commit前に処理を呼べるpre-commitを利用。
 # Requirement
  
 * macOS 10.15.2
+
 ※MacのOSのメジャーアップデートなどで動かなくなる可能性あり。
  
  
