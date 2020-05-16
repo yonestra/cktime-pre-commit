@@ -1,0 +1,2 @@
+# cktime-pre-commit
+ローカルPCの時間を変更したままgitでcommitしようとすると止めてくれるhook
