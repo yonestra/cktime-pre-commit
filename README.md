@@ -16,4 +16,4 @@ commit前に処理を呼べるpre-commitを利用。
  
 # Usage
  
-とりあえずgitで開発中のプロジェクト内の.git/hook以下にコピーすれば使えるはずです。
+とりあえずgitで開発中のプロジェクト内の.git/hook以下にpre-commitファイルをコピーすれば使えるはず。
